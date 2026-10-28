@@ -2,4 +2,4 @@
 Workshop boas práticas Re.data - demo Github
 
 ## Author
-Bruno Direito
+Bruno Direito, bruno.direito@uc.pt
